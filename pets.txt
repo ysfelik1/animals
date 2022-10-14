@@ -1,0 +1,4 @@
+# 3 animals that could be a pet.
+-Carrot
+-Hamster
+-Dog
